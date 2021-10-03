@@ -1,12 +1,1 @@
-# LA County Fire Risk and Poverty
 
-## These two csv files contain data mapping fire hazard severity zones and poverty in LA county.  I could use these to begin establishing the relationship between geographic situation to fire risk and income/wealth.  There may be some interesting results as in LA county there are wealthy areas proximate to woods as well as poorer "exurban" like areas.
-
-
-Sources:
-
-fire
-https://data.lacounty.gov/dataset/Fire-Hazard-Severity-Zones/jwg2-9k5y
-
-poverty
-https://hub.arcgis.com/datasets/lahub::los-angeles-poverty-statistics/about
