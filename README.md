@@ -9,6 +9,7 @@ I grew up outside Boston and attended college in the midwest before moving to SF
 I found Prof. Millard-Ball's scholarship on quantifying sprawl and the land value of restrictively zoned parcels exciting.  I'm broadly interested in further exploring these veins of research, using spatial analysis to reveal the "hidden" economic dynamics resulting from land use policy.  Off-the-cuff, I'd be potentially interested in trying to map the costs of...
   * rebuilding in disaster-prone areas
   * heat-related illness in neighborhoods by tree coverage
+  * insurance companies' move to reassess property values in light of climate risk
   * (I will try to further update this list as I continue brainstorming)
 
 ## Course Objectives
